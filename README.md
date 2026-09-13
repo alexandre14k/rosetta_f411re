@@ -1,6 +1,8 @@
 # rosetta_f411re
 Mixed-signal test board is the key to the unknown.
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/rosetta_f411re&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 ## About
 Provided firmware binary is loaded on the TARGET via STM32F411RE NUCLEO embedded bootloader.<br>
 The firmware allows testers to use the STM32F411RE MCU peripherals via virtual com port VCP.<br>
